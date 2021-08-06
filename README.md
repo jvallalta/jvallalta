@@ -1,3 +1,5 @@
+![IAHealthDataMiner_cabecera_small](https://user-images.githubusercontent.com/57059322/128505017-7562e05d-cfc6-47a0-a359-036018159c8f.jpg)
+
 # ¡Hola! Gracias por visitar mi github 👋
 
 Soy un AI Healthcare Consultant motivado a ayudar a organizaciones y profesionales de la salud a mejorar la sanidad con Inteligencia Artificial. En 2019 lancé healthdataminer.com con el objetivo de aproximar el machine learning a los profesionales sanitarios. Actualmente combino mi trabajo en IA como Chief AI & Data Officer en UrbanFisio con la formación y consultoría en IA en salud en IA Health Data Miner.
