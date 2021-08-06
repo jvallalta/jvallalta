@@ -8,8 +8,8 @@ Mi propósito es unir mi pasión por el aprendizaje continuo, las posibilidades 
 
 Skills: AI Healthcare Strategy, AI Healthcare Literacy, Generative Adversarial Networks, Deep Learning, Machine Learning, NLP, Biostatistics, SQL, R, Python, Keras, Tensorflow, PyTorch, Scikit-Learn, Qlikview, Google Data Studio, EHR.
 
-- 🔭 Actualmente estoy trabajando en la aplicación de las GANs a la generación de imágenes sintéticas y transferencia de estilos entre modalidade de imágenes médicas. También estoy colaborando en un proyecto de predicción del Gleason Score en imágenes de biopsia de próstata.
-- 🌱 Aprendiendo sin parar sobre la aplicación de la IA en medicina, tanto desde el punto de vista técnico, donde mi principal interés actual está relacionado con los modelos generativos y la creación de imágenes sintéticas, como desde el punto de vista organizativo, con la visión de ayudar a conseguir una implementación efectiva de la IA en las organizaciones de salud.
+- 🔭 Actualmente estoy trabajando en la aplicación de las GANs a la generación de imágenes sintéticas y transferencia de estilos entre modalidades de imágenes médicas. También estoy colaborando en un proyecto de predicción del Gleason Score en imágenes de biopsia de próstata.
+- 🌱 Aprendiendo sin parar sobre la aplicación de la IA en medicina, tanto desde el punto de vista técnico, donde mi principal interés está relacionado con los modelos generativos y la creación de imágenes sintéticas, como desde el punto de vista organizativo, con la visión de ayudar a conseguir una implementación efectiva de la IA en las organizaciones de salud.
 - 💬 Consúltame si necesitas ayuda con algún proyecto. ¡Quizás podamos colaborar juntos!
-- ⚡ Me apasaiona la ciencia, sobre todo la física, y su divulgación.
+- ⚡ Me apasiona la ciencia, sobre todo la física, y su divulgación.
 
